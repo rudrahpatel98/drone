@@ -13,7 +13,7 @@ import socket
 import exceptions
 import argparse
 
-###Function definitions for mission
+# Function definitions for mission
 
 # Function to connect script to drone, source:
 # https://community.dojofordrones.com/t/auto-mission-py/44
